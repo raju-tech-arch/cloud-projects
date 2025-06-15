@@ -58,15 +58,6 @@ This project demonstrates how to implement Duo Security’s Two-Factor Authentic
 
 ---
 
-## Demo Screenshots
-
-![Duo 2FA Prompt on RDP Login](./images/duo-2fa-prompt.png)  
-*Duo 2FA approval prompt on RDP login.*
-
-![AWS EC2 Instance Configuration](./images/aws-ec2-configuration.png)  
-*Security group allowing RDP.*
-
----
 
 ## Challenges & Solutions
 
@@ -83,16 +74,9 @@ This project demonstrates how to implement Duo Security’s Two-Factor Authentic
 - Use the provided screenshots and tips to troubleshoot  
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-For questions or feedback, reach out at [your-email@example.com].
+For questions or feedback, reach out at jbhagyaraju0304@gmail.com
 
 ---
 
