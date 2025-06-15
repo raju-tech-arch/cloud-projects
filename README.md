@@ -76,7 +76,7 @@ This project demonstrates how to implement Duo Security’s Two-Factor Authentic
 ---
 ## Contact
 
-For questions or feedback, reach out at jbhagyaraju0304@gmail.com
+For questions or feedback, reach out at jbhagyaraju0304@gmail.com or https://www.linkedin.com/in/j-bhagya-raju-41341122a/
 
 ---
 
